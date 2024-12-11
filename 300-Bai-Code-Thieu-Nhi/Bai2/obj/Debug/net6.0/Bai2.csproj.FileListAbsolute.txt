@@ -1,0 +1,15 @@
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\bin\Debug\net6.0\Bai2.exe
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\bin\Debug\net6.0\Bai2.deps.json
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\bin\Debug\net6.0\Bai2.runtimeconfig.json
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\bin\Debug\net6.0\Bai2.dll
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\bin\Debug\net6.0\Bai2.pdb
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\obj\Debug\net6.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\obj\Debug\net6.0\Bai2.AssemblyInfoInputs.cache
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\obj\Debug\net6.0\Bai2.AssemblyInfo.cs
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\obj\Debug\net6.0\Bai2.csproj.CoreCompileInputs.cache
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\obj\Debug\net6.0\Bai2.sourcelink.json
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\obj\Debug\net6.0\Bai2.dll
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\obj\Debug\net6.0\refint\Bai2.dll
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\obj\Debug\net6.0\Bai2.pdb
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\obj\Debug\net6.0\Bai2.genruntimeconfig.cache
+D:\DOTNET\300-Bai-Code-Thieu-Nhi\Bai2\obj\Debug\net6.0\ref\Bai2.dll

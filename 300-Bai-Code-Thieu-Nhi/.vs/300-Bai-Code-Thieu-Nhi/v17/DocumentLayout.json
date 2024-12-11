@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET\\300-Bai-Code-Thieu-Nhi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFB6B14-EC46-4920-9018-61369ABD42B3}|Bai1\\Bai1.csproj|d:\\dotnet\\300-bai-code-thieu-nhi\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFB6B14-EC46-4920-9018-61369ABD42B3}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE991F30-5885-4AFF-9858-9846E86832F3}|Bai2\\Bai2.csproj|d:\\dotnet\\300-bai-code-thieu-nhi\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE991F30-5885-4AFF-9858-9846E86832F3}|Bai2\\Bai2.csproj|solutionrelative:bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET\\300-Bai-Code-Thieu-Nhi\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "D:\\DOTNET\\300-Bai-Code-Thieu-Nhi\\Bai1\\Program.cs",
+              "RelativeToolTip": "Bai1\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:57:39.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET\\300-Bai-Code-Thieu-Nhi\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2\\Program.cs",
+              "ToolTip": "D:\\DOTNET\\300-Bai-Code-Thieu-Nhi\\Bai2\\Program.cs",
+              "RelativeToolTip": "Bai2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:55:14.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
